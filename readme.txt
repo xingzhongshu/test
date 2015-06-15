@@ -7,3 +7,4 @@ Do you love me?
 Everone is other people.
 BUU 智能机器人
 在天愿作比翼鸟，在地愿为连理枝。
+渊冰厚三尺，素雪覆千里。
