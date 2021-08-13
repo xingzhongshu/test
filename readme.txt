@@ -1,11 +1,5 @@
-Write test:
-Change the world.
-Write the code.
-Chinese:
-ÈÊ¡¢Òå¡¢Àñ¡¢ÖÇ¡¢ĞÅ£»
-
-GithubµÄË½ÓĞ´úÂë¿âÊÇÊÕ·ÑµÄ£¬µ«ÓĞÁíÍâµÄÑ¡Ôñ£¬Ìá¹©Ãâ·ÑË½ÓĞ´úÂë
-¿âÍĞ¹ÜµÄÈı´óÍøÕ¾£º 
+Githubçš„ç§æœ‰ä»£ç åº“æ˜¯æ”¶è´¹çš„ï¼Œä½†æœ‰å¦å¤–çš„é€‰æ‹©ï¼Œæä¾›å…è´¹ç§æœ‰ä»£ç 
+åº“æ‰˜ç®¡çš„ä¸‰å¤§ç½‘ç«™ï¼š 
 bitbucket, http://t.cn/hgrPCU 
-Assembla, http://t.cn/zTs1WLf ºÍ 
+Assembla, http://t.cn/zTs1WLf å’Œ 
 Gitlab, http://t.cn/zYt2Nv0
